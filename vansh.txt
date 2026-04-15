@@ -1,1 +1,2 @@
 Hello Git 
+Feature 2 work 
